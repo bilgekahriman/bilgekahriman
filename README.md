@@ -1,4 +1,4 @@
-# My name is Bilge <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50" align="center">  
+# Hey there, I'm Bilge! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50" align="center">  
 =======================
 
 ## Frontend Developer
