@@ -2,7 +2,7 @@
 =======================
 
 ## Frontend Developer
-##Business Analyst
+Business Analyst
 -----------------
 
 I have been dealing with the Frontend Developer part for about 1-2 year and I have been developing small projects, and learning new languages.
