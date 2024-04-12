@@ -4,11 +4,8 @@
 Business Analyst
 -----------------
 
-I have been dealing with the Frontend Developer part for about 1-2 year and I have been developing small projects, and learning new languages.
-
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [kahrimanbilgenur@gmail.com](mailto:kahrimanbilgenur@gmail.com)
-* 🧠  I'm learning JS Frameworks and other technologies 
 
 ### Skills
 
