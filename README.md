@@ -47,16 +47,6 @@ I enjoy analyzing complex systems, defining clear requirements, and delivering i
 
 ---
 
-### 🌟 **Featured Projects**
-
-📂 **ETL Data Transformation Demo** — *Simulated ETL workflow using dummy data (SQL → API → JSON/XML transformation via Altova MapForce)*  
-📊 **Power BI Dashboard Showcase** — *Sales and operations dashboards with dynamic filters and KPI cards*  
-⚙️ **.NET Automation Prototype** — *Requirement-to-report pipeline using .NET Core and SQL Server*
-
-> 🧩 Check out my repositories for more examples of workflow automation, reporting, and data visualization.
-
----
-
 ### 📊 **GitHub Stats**
 
 <p align="center">
