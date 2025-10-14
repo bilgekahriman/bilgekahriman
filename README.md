@@ -27,6 +27,13 @@ I enjoy analyzing complex systems, defining clear requirements, and delivering i
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="Power BI" /></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" height="36" alt="Tableau" /></a>
 
+<!-- Data & Integration -->
+<a href="https://www.altova.com/mapforce" target="_blank" rel="noreferrer"><img src="https://www.altova.com/favicon.ico" width="36" height="36" alt="Altova MapForce" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a>
+<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="36" height="36" alt="JSON" /></a>
+<a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/xml-1.svg" width="36" height="36" alt="XML" /></a>
+<a href="https://learn.microsoft.com/en-us/office/vba/api/overview/excel" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="36" height="36" alt="Excel VBA" /></a>
+
 <!-- Other Tools -->
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="36" height="36" alt="Jira" /></a>
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="36" height="36" alt="Confluence" /></a>
@@ -36,6 +43,28 @@ I enjoy analyzing complex systems, defining clear requirements, and delivering i
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+</p>
+
+---
+
+### 🌟 **Featured Projects**
+
+📂 **ETL Data Transformation Demo** — *Simulated ETL workflow using dummy data (SQL → API → JSON/XML transformation via Altova MapForce)*  
+📊 **Power BI Dashboard Showcase** — *Sales and operations dashboards with dynamic filters and KPI cards*  
+⚙️ **.NET Automation Prototype** — *Requirement-to-report pipeline using .NET Core and SQL Server*
+
+> 🧩 Check out my repositories for more examples of workflow automation, reporting, and data visualization.
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilgekahriman&show_icons=true&theme=transparent&hide_title=true" alt="Bilge's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekahriman&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ---
