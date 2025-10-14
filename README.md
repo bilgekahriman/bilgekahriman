@@ -1,6 +1,6 @@
 # Hi, I'm Bilge Kahriman
 
-💡 **Business Analyst | Data Enthusiast **
+💡 Business Analyst | Data Enthusiast
 
 I'm passionate about transforming business needs into technical solutions and bridging the gap between data, design, and decision-making.  
 I enjoy analyzing complex systems, defining clear requirements, and delivering impactful, data-driven results.
