@@ -47,18 +47,6 @@ I enjoy analyzing complex systems, defining clear requirements, and delivering i
 
 ---
 
-### 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilgekahriman&show_icons=true&theme=transparent&hide_title=true" alt="Bilge's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekahriman&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 **Connect With Me**
 
 <p align="left">
